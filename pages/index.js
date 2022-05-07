@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Das ist eine Seite zum Erstellen von <code>USA-County-Navbar Quellcodes</code>
         </p>
-    <script>
+    <script language="JavaScript">
     <input type="text" name="staat" id="staat">
     let staat = document.querySelector("#staat").value;
       <input type="text" name="countyname" id="countyname">
